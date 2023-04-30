@@ -1,0 +1,17 @@
+.main {
+  width: 400px;
+  margin: 60px;
+  padding: 20px;
+  border: 2px solid pink;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  color: #010101;
+  background-color: white;
+}
+
+.title {
+  text-align: center;
+
+  margin: 10px;
+}

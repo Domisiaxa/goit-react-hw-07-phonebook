@@ -1,0 +1,28 @@
+.label {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.label input {
+  padding: 5px;
+  border: none;
+  outline: 1px solid #afb1b8;
+  border-radius: 5px;
+}
+
+.label input:focus {
+  outline: 1px solid pink;
+}
+
+.input {
+  border: 0.75px solid #afb1b8;
+  border-radius: 5%;
+  height: 25px;
+  outline: none;
+  width: 340px;
+}
